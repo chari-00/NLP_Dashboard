@@ -21,7 +21,7 @@ npm start
 
 The application will open at [http://localhost:3000](http://localhost:3000)
 
-## 🔐 Login Credentials
+## Login Credentials
 
 ### Admin Access
 - **Username:** `admin`
