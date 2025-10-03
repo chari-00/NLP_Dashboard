@@ -1,0 +1,47 @@
+# NLP Dashboard - Python Requirements
+# This file contains the Python dependencies for the backend/API components
+
+# Web Framework
+Flask==2.3.3
+Flask-CORS==4.0.0
+
+# Database
+SQLAlchemy==2.0.21
+Flask-SQLAlchemy==3.0.5
+
+# Authentication & Security
+Flask-JWT-Extended==4.5.2
+bcrypt==4.0.1
+python-dotenv==1.0.0
+
+# Data Processing
+pandas==2.1.1
+numpy==1.24.3
+
+# API Documentation
+Flask-RESTful==0.3.10
+marshmallow==3.20.1
+
+# File Handling
+Pillow==10.0.0
+python-multipart==0.0.6
+
+# Development & Testing
+pytest==7.4.2
+pytest-flask==1.2.0
+flask-testing==0.8.1
+
+# Production Server
+gunicorn==21.2.0
+
+# Environment Management
+python-decouple==3.8
+
+# Logging
+loguru==0.7.0
+
+# Email Support (Optional)
+Flask-Mail==0.9.1
+
+# Caching (Optional)
+Flask-Caching==2.1.0
